@@ -6,3 +6,6 @@ Import rubika
 Import sex
 Import yftt15k
 Import filter-rubika.io
+print ("hack-porn-sex-filter-support-net-rport-filter-rubika.py")
+print ("https://cyberpolice.ir")
+
